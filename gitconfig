@@ -1,0 +1,8 @@
+[user]
+  name = Adam Hupp
+  email = adam@hupp.org
+
+[alias]
+  co = checkout
+  checkpoint = commit -a -m checkpoint
+

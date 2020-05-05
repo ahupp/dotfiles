@@ -6,6 +6,9 @@
 (line-number-mode t)
 (transient-mark-mode t)
 (global-font-lock-mode t)
+(menu-bar-mode -1)
+(tool-bar-mode -1)
+(toggle-scroll-bar -1)
 
 (setq inhibit-startup-message t)
 (setq save-abbrevs 'silently)
